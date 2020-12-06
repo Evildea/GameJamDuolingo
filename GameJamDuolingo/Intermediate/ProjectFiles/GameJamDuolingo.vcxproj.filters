@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameJamDuolingo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A9E2232B-9B2F-4E48-A58D-283F019EB56D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameJamDuolingo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameJamDuolingoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B41C9388-6048-4ED0-8CE1-91AD8E152189}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameJamDuolingo">
+      <UniqueIdentifier>{A70C0532-90F4-4E07-B3FB-BA3DABC09998}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameJamDuolingo\GameJamDuolingo.Build.cs">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameJamDuolingo\GameJamDuolingo.cpp">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameJamDuolingo\GameJamDuolingo.h">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameJamDuolingo\GameJamDuolingoCharacter.cpp">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameJamDuolingo\GameJamDuolingoCharacter.h">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameJamDuolingo\GameJamDuolingoGameMode.cpp">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameJamDuolingo\GameJamDuolingoGameMode.h">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameJamDuolingo\GameJamDuolingoHUD.cpp">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameJamDuolingo\GameJamDuolingoHUD.h">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameJamDuolingo\GameJamDuolingoProjectile.cpp">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameJamDuolingo\GameJamDuolingoProjectile.h">
+      <Filter>Source\GameJamDuolingo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

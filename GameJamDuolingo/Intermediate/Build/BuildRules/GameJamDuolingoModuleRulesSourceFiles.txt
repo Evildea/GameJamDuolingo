@@ -1,0 +1,3 @@
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Source\GameJamDuolingo\GameJamDuolingo.Build.cs
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Source\GameJamDuolingo.Target.cs
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Source\GameJamDuolingoEditor.Target.cs
