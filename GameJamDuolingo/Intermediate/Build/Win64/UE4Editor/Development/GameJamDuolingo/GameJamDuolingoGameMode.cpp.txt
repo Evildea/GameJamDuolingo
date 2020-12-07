@@ -1,20 +1,20 @@
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Development\GameJamDuolingo\Definitions.GameJamDuolingo.h
-c:\users\joshu\desktop\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoGameMode.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoGameMode.generated.h
-c:\users\joshu\desktop\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoHUD.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoHUD.generated.h
-c:\users\joshu\desktop\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoCharacter.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoCharacter.generated.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Development\GameJamDuolingo\Definitions.GameJamDuolingo.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoGameMode.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoGameMode.generated.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoHUD.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoHUD.generated.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoCharacter.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoCharacter.generated.h

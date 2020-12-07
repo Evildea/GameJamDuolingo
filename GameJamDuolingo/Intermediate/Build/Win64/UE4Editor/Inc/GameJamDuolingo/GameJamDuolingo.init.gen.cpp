@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeGameJamDuolingo_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x7661778C,
+				0xCD36F4C7,
 				0x8575D266,
 				METADATA_PARAMS(nullptr, 0)
 			};

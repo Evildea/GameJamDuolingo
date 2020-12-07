@@ -1,5 +1,5 @@
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Development\GameJamDuolingo\Definitions.GameJamDuolingo.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Source\GameJamDuolingo/GameJamDuolingoProjectile.h
-c:\users\joshu\desktop\gamejamduolingo\gamejamduolingo\intermediate\build\win64\ue4editor\inc\gamejamduolingo\GameJamDuolingoProjectile.generated.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Development\GameJamDuolingo\Definitions.GameJamDuolingo.h
+D:\Software\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Software\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Source\GameJamDuolingo/GameJamDuolingoProjectile.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\intermediate\build\win64\ue4editor\inc\gamejamduolingo\GameJamDuolingoProjectile.generated.h

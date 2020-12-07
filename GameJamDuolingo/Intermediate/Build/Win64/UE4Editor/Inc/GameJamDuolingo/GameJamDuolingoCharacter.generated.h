@@ -58,14 +58,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGameJamDuolingoCharacter); \
 
 
 #define GameJamDuolingo_Source_GameJamDuolingo_GameJamDuolingoCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, Mesh1P); } \
-	FORCEINLINE static uint32 __PPO__FP_Gun() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, FP_Gun); } \
-	FORCEINLINE static uint32 __PPO__FP_MuzzleLocation() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, FP_MuzzleLocation); } \
-	FORCEINLINE static uint32 __PPO__VR_Gun() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, VR_Gun); } \
-	FORCEINLINE static uint32 __PPO__VR_MuzzleLocation() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, VR_MuzzleLocation); } \
-	FORCEINLINE static uint32 __PPO__FirstPersonCameraComponent() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, FirstPersonCameraComponent); } \
-	FORCEINLINE static uint32 __PPO__R_MotionController() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, R_MotionController); } \
-	FORCEINLINE static uint32 __PPO__L_MotionController() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, L_MotionController); }
+	FORCEINLINE static uint32 __PPO__FirstPersonCameraComponent() { return STRUCT_OFFSET(AGameJamDuolingoCharacter, FirstPersonCameraComponent); }
 
 
 #define GameJamDuolingo_Source_GameJamDuolingo_GameJamDuolingoCharacter_h_11_PROLOG
