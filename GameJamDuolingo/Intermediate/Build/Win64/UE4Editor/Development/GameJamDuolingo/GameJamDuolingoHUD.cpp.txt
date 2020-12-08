@@ -1,17 +1,17 @@
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Development\GameJamDuolingo\Definitions.GameJamDuolingo.h
-c:\users\joshu\desktop\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoHUD.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\Joshu\Desktop\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoHUD.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Development\GameJamDuolingo\Definitions.GameJamDuolingo.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingoHUD.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4Editor\Inc\GameJamDuolingo\GameJamDuolingoHUD.generated.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\Software\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
