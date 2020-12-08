@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 12/08/20 13:34:26
+=======
+﻿Log file open, 12/08/20 14:08:17
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: GameJamDuolingo
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.083639
+=======
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.066379
+>>>>>>> main
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -157,6 +166,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2020.12.08-02.34.26:413][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.12.08-02.34.26:413][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.12.08-02.34.26:413][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
@@ -1053,3 +1063,1137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.08-04.02.06:030][108]LogExit: Executing StaticShutdownAfterError
 [2020.12.08-04.02.06:190][108]LogWindows: FPlatformMisc::RequestExit(1)
 [2020.12.08-04.02.06:196][108]Log file closed, 12/08/20 15:02:06
+=======
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.08-03.08.18:106][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.08-03.08.18:106][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.08-03.08.18:106][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.08-03.08.18:108][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:108][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.08-03.08.18:108][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.08-03.08.18:108][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:108][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.08-03.08.18:108][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:108][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.08-03.08.18:109][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.08-03.08.18:109][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.08-03.08.18:109][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.08-03.08.18:111][  0]LogHAL: Display: Platform has ~ 16 GB [16964153344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.08-03.08.18:111][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.08-03.08.18:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.08-03.08.18:112][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.08-03.08.18:113][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.08-03.08.18:113][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.08-03.08.18:113][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.08-03.08.18:113][  0]LogInit: Computer: DESKTOP-CJROJ6L
+[2020.12.08-03.08.18:113][  0]LogInit: User: Evildea
+[2020.12.08-03.08.18:113][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.08-03.08.18:113][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.08-03.08.18:113][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.12.08-03.08.18:113][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.08-03.08.18:113][  0]LogMemory: Process Physical Memory: 102.24 MB used, 102.25 MB peak
+[2020.12.08-03.08.18:113][  0]LogMemory: Process Virtual Memory: 101.75 MB used, 101.75 MB peak
+[2020.12.08-03.08.18:113][  0]LogMemory: Physical Memory: 10469.74 MB used,  5708.54 MB free, 16178.28 MB total
+[2020.12.08-03.08.18:113][  0]LogMemory: Virtual Memory: 4686.79 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.12.08-03.08.18:116][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.08-03.08.18:133][  0]LogInit: Using OS detected language (en-US).
+[2020.12.08-03.08.18:133][  0]LogInit: Using OS detected locale (en-AU).
+[2020.12.08-03.08.18:133][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.08-03.08.18:286][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.08-03.08.18:309][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.08-03.08.18:309][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.08-03.08.18:451][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.08-03.08.18:451][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.08-03.08.18:516][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.12.08-03.08.18:516][  0]LogD3D11RHI:       6052/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.08-03.08.18:539][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.08-03.08.18:540][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.08-03.08.18:542][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.08-03.08.18:542][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.08-03.08.18:542][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.08-03.08.18:576][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.08-03.08.18:576][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.08-03.08.18:576][  0]LogWindows: EnumDisplayDevices:
+[2020.12.08-03.08.18:576][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.08-03.08.18:576][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.08-03.08.18:576][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.08-03.08.18:577][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.12.08-03.08.18:577][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.08-03.08.18:577][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.12.08-03.08.18:577][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.12.08-03.08.18:577][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.12.08-03.08.18:577][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.12.08-03.08.18:627][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.08-03.08.18:647][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.12.08-03.08.18:918][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.12.08-03.08.18:925][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.12.08-03.08.18:931][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.12.08-03.08.18:938][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.12.08-03.08.18:945][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.12.08-03.08.18:951][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.12.08-03.08.18:958][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.08-03.08.18:964][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.12.08-03.08.18:967][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.12.08-03.08.18:996][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.12.08-03.08.18:998][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.12.08-03.08.19:011][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.12.08-03.08.19:011][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.12.08-03.08.19:022][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.12.08-03.08.19:022][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.12.08-03.08.19:028][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.12.08-03.08.19:033][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.08-03.08.19:039][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.12.08-03.08.19:045][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.12.08-03.08.19:069][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.12.08-03.08.19:069][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.12.08-03.08.19:069][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.08-03.08.19:075][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.08-03.08.19:107][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Intermediate/Shaders/WorkingDirectory/33848/).
+[2020.12.08-03.08.19:107][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Evildea/AppData/Local/Temp/UnrealShaderWorkingDir/0E2B487641565ABB8040038B68B7A461/'.
+[2020.12.08-03.08.19:108][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.08-03.08.19:108][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.08-03.08.19:108][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.08-03.08.19:627][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.08-03.08.19:686][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Evildea/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.08-03.08.19:686][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Evildea/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.12.08-03.08.19:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.08-03.08.19:686][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.08-03.08.19:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.08-03.08.19:686][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.08-03.08.19:697][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.08-03.08.19:697][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.08-03.08.19:697][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.08-03.08.19:698][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Evildea/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.08-03.08.19:698][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.08-03.08.19:698][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.08-03.08.19:717][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.08-03.08.19:720][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.08-03.08.19:720][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.08-03.08.19:768][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.12.08-03.08.19:990][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.08-03.08.20:128][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.08-03.08.20:128][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.08-03.08.20:128][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.08-03.08.20:128][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.08-03.08.20:128][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.08-03.08.20:137][  0]LogNetVersion: GameJamDuolingo 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1013713415)
+[2020.12.08-03.08.20:485][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.039578 seconds
+[2020.12.08-03.08.20:492][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.12.08-03.08.20:492][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.12.08-03.08.20:492][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.08-03.08.21:155][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.08-03.08.21:158][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.08-03.08.21:212][  0]SourceControl: Source control is disabled
+[2020.12.08-03.08.21:212][  0]SourceControl: Source control is disabled
+[2020.12.08-03.08.21:213][  0]SourceControl: Source control is disabled
+[2020.12.08-03.08.21:214][  0]SourceControl: Source control is disabled
+[2020.12.08-03.08.21:277][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.08-03.08.21:366][  0]LogOcInput: OculusInput pre-init called
+[2020.12.08-03.08.21:371][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.08-03.08.21:371][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.08-03.08.21:424][  0]LogEngine: Initializing Engine...
+[2020.12.08-03.08.21:424][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.08-03.08.21:425][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.08-03.08.21:611][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.08-03.08.21:619][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.08-03.08.21:642][  0]LogInit: XAudio2 using 'Speakers/Headphones (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.08-03.08.21:653][  0]LogInit: FAudioDevice initialized.
+[2020.12.08-03.08.21:653][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.08-03.08.21:734][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Evildea/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.08-03.08.21:744][  0]LogInit: Texture streaming: Enabled
+[2020.12.08-03.08.21:755][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.08-03.08.21:755][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.08-03.08.21:756][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.08-03.08.21:807][  0]LogInit: Transaction tracking system initialized
+[2020.12.08-03.08.21:825][  0]BlueprintLog: New page: Editor Load
+[2020.12.08-03.08.21:874][  0]LocalizationService: Localization service is disabled
+[2020.12.08-03.08.22:052][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/' took 0.00s
+[2020.12.08-03.08.22:052][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.08-03.08.22:052][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.08-03.08.22:180][  0]SourceControl: Source control is disabled
+[2020.12.08-03.08.22:180][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.08-03.08.22:180][  0]LogEditorServer: Warning: Can't find file '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.12.08-03.08.22:180][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.08-03.08.22:180][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.12.08-03.08.22:180][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.000
+[2020.12.08-03.08.22:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.08.22:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.08.22:277][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.08.22:283][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.08.22:286][  0]LogCollectionManager: Loaded 0 collections in 0.000787 seconds
+[2020.12.08-03.08.22:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Collections/' took 0.00s
+[2020.12.08-03.08.22:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Developers/Evildea/Collections/' took 0.00s
+[2020.12.08-03.08.22:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Collections/' took 0.00s
+[2020.12.08-03.08.22:290][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.12.08-03.08.22:297][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2867 classes and 682 folders.
+[2020.12.08-03.08.22:301][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.08-03.08.22:326][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.08-03.08.22:331][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.12.08-03.08.22:403][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.08-03.08.22:405][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.08-03.08.22:408][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.08-03.08.22:459][  0]LogRenderer: Reallocating scene render targets to support 968x448 Format 10 NumSamples 1 (Frame:1).
+[2020.12.08-03.08.22:535][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.08-03.08.22:535][  0]LogLoad: (Engine Initialization) Total time: 5.12 seconds
+[2020.12.08-03.08.22:535][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.08-03.08.22:590][  0]LogAssetRegistry: Asset discovery search completed in 2.8244 seconds
+[2020.12.08-03.08.22:595][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.12.08-03.08.22:595][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000126 seconds (updated 0 objects)
+[2020.12.08-03.08.22:799][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.08-03.08.22:821][  0]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.08-03.09.04:714][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.08-03.09.04:895][281]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.08-03.09.05:794][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:795][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:795][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:795][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:839][281]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:839][281]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:839][281]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:839][281]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:886][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:886][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube10
+[2020.12.08-03.09.05:886][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:886][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:886][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube12
+[2020.12.08-03.09.05:886][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:886][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:886][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube13
+[2020.12.08-03.09.05:886][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:886][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:887][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube14
+[2020.12.08-03.09.05:887][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:887][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:887][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube15
+[2020.12.08-03.09.05:887][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:887][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:887][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube16
+[2020.12.08-03.09.05:887][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:887][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:887][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube17
+[2020.12.08-03.09.05:887][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:888][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:888][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube18
+[2020.12.08-03.09.05:888][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:888][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:888][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube19
+[2020.12.08-03.09.05:888][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:888][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:888][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube20
+[2020.12.08-03.09.05:888][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:888][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:889][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube21
+[2020.12.08-03.09.05:889][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:889][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:889][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube8
+[2020.12.08-03.09.05:889][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:889][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.05:889][281]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube9
+[2020.12.08-03.09.05:889][281]LogLinker: Warning: While loading '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap' failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2020.12.08-03.09.06:574][281]LogAIModule: Creating AISystem for world RichardTestMap
+[2020.12.08-03.09.06:606][281]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/RichardTestMap.RichardTestMap
+[2020.12.08-03.09.06:663][281]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.12.08-03.09.06:665][281]Cmd: MAP LOAD FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/RichardTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.08-03.09.06:665][281]LightingResults: New page: Lighting Build
+[2020.12.08-03.09.06:669][281]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 5 classes and 0 folders.
+[2020.12.08-03.09.06:670][281]LoadErrors: New page: Loading map: RichardTestMap.umap
+[2020.12.08-03.09.06:679][281]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.09.06:680][281]MapCheck: New page: Map Check
+[2020.12.08-03.09.06:680][281]LightingResults: New page: Lighting Build
+[2020.12.08-03.09.06:706][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.12.08-03.09.06:790][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.08-03.09.06:803][281]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=360.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.12.08-03.09.06:835][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.12.08-03.09.06:863][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.08-03.09.06:864][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.12.08-03.09.06:864][281]LogFileHelpers: Loading map 'RichardTestMap' took 0.200
+[2020.12.08-03.09.06:903][281]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': FirstPersonCharacter_C /Game/Levels/RichardTestMap.RichardTestMap:PersistentLevel.FirstPersonCharacter_C_0
+[2020.12.08-03.09.06:903][281]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FirstPersonCamera': FirstPersonCharacter_C /Game/Levels/RichardTestMap.RichardTestMap:PersistentLevel.FirstPersonCharacter_C_0
+[2020.12.08-03.09.06:903][281]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': FirstPersonCharacter_C /Game/Levels/RichardTestMap.RichardTestMap:PersistentLevel.FirstPersonCharacter_C_0
+[2020.12.08-03.09.06:903][281]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': FirstPersonCharacter_C /Game/Levels/RichardTestMap.RichardTestMap:PersistentLevel.FirstPersonCharacter_C_0
+[2020.12.08-03.09.06:903][281]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': FirstPersonCharacter_C /Game/Levels/RichardTestMap.RichardTestMap:PersistentLevel.FirstPersonCharacter_C_0
+[2020.12.08-03.09.06:903][281]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Flashlight': FirstPersonCharacter_C /Game/Levels/RichardTestMap.RichardTestMap:PersistentLevel.FirstPersonCharacter_C_0
+[2020.12.08-03.09.19:054][427]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.08-03.09.19:060][427]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.12.08-03.09.19:087][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.12.08-03.09.19:088][427]Cmd: MAP LOAD FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.08-03.09.19:088][427]LightingResults: New page: Lighting Build
+[2020.12.08-03.09.19:089][427]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.12.08-03.09.19:089][427]LogWorld: UWorld::CleanupWorld for RichardTestMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.09.19:089][427]MapCheck: New page: Map Check
+[2020.12.08-03.09.19:089][427]LightingResults: New page: Lighting Build
+[2020.12.08-03.09.19:115][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.08-03.09.19:181][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.08-03.09.19:207][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.12.08-03.09.19:232][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.08-03.09.19:232][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2020.12.08-03.09.19:232][427]LogFileHelpers: Loading map 'MainMenu' took 0.144
+[2020.12.08-03.09.20:136][477]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.08-03.09.20:150][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.09.20:150][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.08-03.09.20:150][477]PIE: New page: PIE session: MainMenu (9 Dec 2020 1:09:20 am)
+[2020.12.08-03.09.20:151][477]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.08-03.09.20:152][477]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.08-03.09.20:155][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002718s)
+[2020.12.08-03.09.20:156][477]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.08-03.09.20:156][477]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2020.12.08-03.09.20:156][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003729s)
+[2020.12.08-03.09.20:180][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.12.08-03.09.20:183][477]LogInit: XAudio2 using 'Speakers/Headphones (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.08-03.09.20:189][477]LogInit: FAudioDevice initialized.
+[2020.12.08-03.09.20:198][477]LogLoad: Game class is 'MenuGameMode_C'
+[2020.12.08-03.09.20:200][477]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.12.08-14.09.20
+[2020.12.08-03.09.20:201][477]LogWorld: Bringing up level for play took: 0.001332
+[2020.12.08-03.09.20:201][477]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.12.08-03.09.20:202][477]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.08-03.09.20:205][477]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.12.08-03.09.20:206][477]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.12.08-03.09.20:206][477]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.94
+[2020.12.08-03.09.20:207][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.09.35:242][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.08-03.09.35:325][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.09.35:326][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.09.35:326][382]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.08-03.09.35:326][382]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.09.35:334][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.08-03.09.35:334][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.09.35:361][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.09.35:363][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.12.08-03.09.35:426][386]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.12.08-03.11.11:270][916]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.12.08-03.11.11:295][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.08-03.11.11:296][916]Cmd: MAP LOAD FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.08-03.11.11:296][916]LightingResults: New page: Lighting Build
+[2020.12.08-03.11.11:297][916]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.12.08-03.11.11:297][916]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.11.11:297][916]MapCheck: New page: Map Check
+[2020.12.08-03.11.11:297][916]LightingResults: New page: Lighting Build
+[2020.12.08-03.11.11:323][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.12.08-03.11.11:334][916]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.08-03.11.11:428][916]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.08-03.11.11:454][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.08-03.11.11:484][916]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.08-03.11.11:484][916]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2020.12.08-03.11.11:485][916]LogFileHelpers: Loading map 'MainMenu' took 0.190
+[2020.12.08-03.11.17:290][259]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.12.08-03.11.17:520][259]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.12.08-03.11.18:527][259]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.08-03.11.21:450][422]LogSlate: Took 0.147670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.08-03.11.22:637][493]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C756B071-4FD0-C972-E3D1-98841575FBFD}
+[2020.12.08-03.11.22:637][493]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E2260F44-4B59-A6A6-62BC-5F9DDEB06BCE}
+[2020.12.08-03.11.22:637][493]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={0E5F0486-4680-6453-9D39-36B8A10B8A9D}
+[2020.12.08-03.13.22:728][517]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C2A4FD5D-41E0-58AC-708A-6993F050DF7E}
+[2020.12.08-03.13.36:236][594]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Evildea\Downloads\Night Club 70s Bold.ttf)
+[2020.12.08-03.13.42:858][594]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.12.08-03.13.43:052][594]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.12.08-03.13.43:055][594]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Evildea\Downloads\Night Club 70s Regular.ttf)
+[2020.12.08-03.13.43:058][594]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.12.08-03.13.43:067][594]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.08-03.13.43:068][594]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.08-03.13.43:074][594]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.08-03.13.43:081][594]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.08-03.13.43:085][594]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.08-03.13.43:089][594]LogSlate: Took 0.001211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.08-03.13.43:090][594]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.08-03.13.43:109][595]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.08-03.13.43:113][595]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.08-03.13.43:116][595]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.08-03.13.43:118][595]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.08-03.13.43:121][595]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.08-03.13.43:124][595]LogSlate: Took 0.000861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.08-03.13.43:125][595]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.08-03.13.46:452][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.12.08-03.13.48:015][790]LogSlate: Window 'Save Content' being destroyed
+[2020.12.08-03.13.48:050][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Fonts/Night_Club_70s_Bold" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Assets/Fonts/Night_Club_70s_Bold.uasset" SILENT=true
+[2020.12.08-03.13.48:059][790]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Night_Club_70s_Bold247243BB4FC77A8CF065D98E954C2E39.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Assets/Fonts/Night_Club_70s_Bold.uasset'
+[2020.12.08-03.13.48:084][790]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Night_Club_70s_Bold_Font77C42B67447218FF3AC31EB0D11B6522.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Assets/Fonts/Night_Club_70s_Bold_Font.uasset'
+[2020.12.08-03.13.48:099][790]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Night_Club_70s_Regular954BF2D44CA56D9A9194F89BB7BD2D1D.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Assets/Fonts/Night_Club_70s_Regular.uasset'
+[2020.12.08-03.13.48:119][790]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Night_Club_70s_Regular_FontD1FC0F1048D3305DEFC6BEBF9B580152.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Assets/Fonts/Night_Club_70s_Regular_Font.uasset'
+[2020.12.08-03.13.48:125][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset" SILENT=true
+[2020.12.08-03.13.48:341][790]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenuF3869A134761AE91BADFEE9FA58FD6A2.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset'
+[2020.12.08-03.13.49:227][839]LogAssetEditorManager: Opening Asset editor for Font /Game/Assets/Fonts/Night_Club_70s_Bold_Font.Night_Club_70s_Bold_Font
+[2020.12.08-03.16.22:747][980]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={689A174A-44B0-FE11-42A4-2F99E884AFE5}
+[2020.12.08-03.17.22:753][561]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3D5571F1-4F1C-A393-70F7-B8A74E8EEB55}
+[2020.12.08-03.17.22:753][561]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DE580B6D-44F5-E1F3-DE75-64ABAB3CD28A}
+[2020.12.08-03.18.22:754][139]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C0B39924-433B-4470-9471-9EBCA9AAB598}
+[2020.12.08-03.18.45:638][490]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.18.45:751][490]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2020.12.08-03.18.46:768][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset" SILENT=true
+[2020.12.08-03.18.46:786][546]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu3007558E4B9F6AED9ACE4AB4E8B5EB2D.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset'
+[2020.12.08-03.18.58:493][245]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.18.58:557][245]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.12.08-03.18.59:078][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset" SILENT=true
+[2020.12.08-03.18.59:104][272]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu8F8D034544E01DC3AC0AC3A283B70271.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset'
+[2020.12.08-03.19.05:002][625]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.08-03.19.05:020][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.19.05:020][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.08-03.19.05:020][625]PIE: New page: PIE session: MainMenu (9 Dec 2020 1:19:05 am)
+[2020.12.08-03.19.05:020][625]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.08-03.19.05:023][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002610s)
+[2020.12.08-03.19.05:024][625]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.08-03.19.05:024][625]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2020.12.08-03.19.05:024][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003655s)
+[2020.12.08-03.19.05:054][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.12.08-03.19.05:057][625]LogInit: XAudio2 using 'Speakers/Headphones (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.08-03.19.05:065][625]LogInit: FAudioDevice initialized.
+[2020.12.08-03.19.05:072][625]LogLoad: Game class is 'MenuGameMode_C'
+[2020.12.08-03.19.05:074][625]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.12.08-14.19.05
+[2020.12.08-03.19.05:075][625]LogWorld: Bringing up level for play took: 0.001440
+[2020.12.08-03.19.05:075][625]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.12.08-03.19.05:076][625]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.08-03.19.05:078][625]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.12.08-03.19.05:078][625]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.068
+[2020.12.08-03.19.05:078][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.19.08:681][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.08-03.19.08:781][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.19.08:781][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.19.08:781][846]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.08-03.19.08:781][846]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.19.08:789][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.08-03.19.08:790][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.12.08-03.19.08:827][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-03.19.08:831][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.12.08-03.19.08:883][849]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.08-03.19.11:518][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.12.08-03.20.24:090][943]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.20.24:141][943]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.12.08-03.20.24:690][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset" SILENT=true
+[2020.12.08-03.20.24:715][969]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu08DCD8D24776160ECBC0DF97F7F3843D.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset'
+[2020.12.08-03.20.26:478][ 74]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.20.26:533][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.12.08-03.21.02:597][216]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.21.02:643][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.12.08-03.21.03:228][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset" SILENT=true
+[2020.12.08-03.21.03:245][247]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenuCC60CC0646F99515C91E20B79D3A6A38.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset'
+[2020.12.08-03.21.05:341][372]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.21.05:392][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.12.08-03.22.23:039][229]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.22.23:076][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.12.08-03.22.23:627][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset" SILENT=true
+[2020.12.08-03.22.23:643][258]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu829545AC4A2B0DC575867BA5959CDC64.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset'
+[2020.12.08-03.22.28:369][541]LogSlate: Window 'Night_Club_70s_Bold_Font' being destroyed
+[2020.12.08-03.22.28:375][541]LogSlate: Window 'Night_Club_70s_Bold_Font' being destroyed
+[2020.12.08-03.22.28:378][541]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.22.28:396][541]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.25.43:977][171]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Unreal\GitKraken\GameJamDuolingo\Sound\Rain.wav)
+[2020.12.08-03.25.45:478][205]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/Rain.Rain
+[2020.12.08-03.25.47:331][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rain" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset" SILENT=true
+[2020.12.08-03.25.47:341][301]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/RainD54B9A1740613B7C84DBE096072DBE53.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset'
+[2020.12.08-03.25.49:665][440]LogSlate: Window 'Rain' being destroyed
+[2020.12.08-03.25.50:846][510]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Rain...
+[2020.12.08-03.25.51:296][510]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3734432 while cooking SoundWave /Game/Sounds/Rain.Rain.
+[2020.12.08-03.25.55:862][772]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.12.08-03.25.56:279][773]LogSlate: Took 0.021848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.08-03.26.13:649][787]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.26.13:844][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.12.08-03.26.14:418][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.08-03.26.14:460][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.12.08-03.26.14:613][819]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu583EF5D747CD3B6DB3CF878BCE354C6B.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.26.14:649][819]LogFileHelpers: Saving map 'MainMenu' took 0.230
+[2020.12.08-03.26.16:894][951]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/Rain.Rain
+[2020.12.08-03.26.23:126][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rain" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset" SILENT=true
+[2020.12.08-03.26.23:165][314]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Rain7B1FF8D84B64EB9FCE9E22AF12152634.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset'
+[2020.12.08-03.26.30:099][501]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.26.30:140][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.12.08-03.26.47:908][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rain" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset" SILENT=true
+[2020.12.08-03.26.47:920][ 30]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Rain1A970B11427CC50DF15C108F9C67CABA.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset'
+[2020.12.08-03.26.57:942][226]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.26.57:984][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.12.08-03.27.12:840][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rain" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset" SILENT=true
+[2020.12.08-03.27.12:853][694]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/RainA4632ED84F7DDF0E60F5A2A5A73BB756.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset'
+[2020.12.08-03.27.14:414][787]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.27.14:465][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.08-03.27.30:023][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rain" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset" SILENT=true
+[2020.12.08-03.27.30:036][317]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Rain34BE04004D101CF25D6676897CCC0174.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset'
+[2020.12.08-03.27.32:049][437]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.27.32:105][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.12.08-03.27.48:207][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rain" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset" SILENT=true
+[2020.12.08-03.27.48:218][844]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/RainC7745A3C44A2ADD035AEDD8C96177A8D.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset'
+[2020.12.08-03.27.49:897][944]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.27.49:943][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.12.08-03.28.14:796][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rain" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset" SILENT=true
+[2020.12.08-03.28.14:812][359]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/Rain77F572744CAC59D6AA12F0BC271A983C.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/Rain.uasset'
+[2020.12.08-03.28.17:094][489]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.28.17:144][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.08-03.31.12:113][184]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Unreal\GitKraken\GameJamDuolingo\Sound\RainInternal.wav)
+[2020.12.08-03.31.17:335][184]LogSlate: Window 'Message' being destroyed
+[2020.12.08-03.31.19:771][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.08-03.31.21:010][326]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.08-03.31.23:147][326]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sounds/Rain.Rain
+[2020.12.08-03.31.24:788][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.08-03.31.24:817][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.12.08-03.31.24:841][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.08-03.31.26:045][397]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/RainInternal.RainInternal
+[2020.12.08-03.31.36:868][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/RainInternal" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset" SILENT=true
+[2020.12.08-03.31.36:880][ 40]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/RainInternalCB099D754246738855C4FD91B353DA66.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset'
+[2020.12.08-03.31.41:422][308]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.31.41:582][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.08-03.31.42:293][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.08-03.31.42:324][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.12.08-03.31.42:482][348]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu54A411E3439C615C6757E8946A2610AA.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.31.42:513][348]LogFileHelpers: Saving map 'MainMenu' took 0.221
+[2020.12.08-03.31.44:667][475]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.31.44:715][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.12.08-03.32.01:255][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/RainInternal" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset" SILENT=true
+[2020.12.08-03.32.01:278][948]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/RainInternal3EAE6F9543D59D021E4363A4D9858858.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset'
+[2020.12.08-03.32.02:082][995]LogSlate: Window 'RainInternal' being destroyed
+[2020.12.08-03.32.02:093][995]LogSlate: Window 'RainInternal' being destroyed
+[2020.12.08-03.32.02:114][995]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.32.03:037][ 45]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.32.03:089][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.12.08-03.32.15:569][163]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/RainInternal.RainInternal
+[2020.12.08-03.32.20:437][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/RainInternal" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset" SILENT=true
+[2020.12.08-03.32.20:452][445]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/RainInternal786AADBE4BF1189EAF0833A9FE1EC6D9.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset'
+[2020.12.08-03.32.21:571][511]LogSlate: Window 'RainInternal' being destroyed
+[2020.12.08-03.32.21:580][511]LogSlate: Window 'RainInternal' being destroyed
+[2020.12.08-03.32.22:390][559]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.32.22:438][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.12.08-03.32.30:557][664]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/RainInternal.RainInternal
+[2020.12.08-03.32.35:621][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/RainInternal" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset" SILENT=true
+[2020.12.08-03.32.35:636][955]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/RainInternal675ECB574B3CEE8E08EBAAA3937FAFFD.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Sounds/RainInternal.uasset'
+[2020.12.08-03.32.36:419][  1]LogSlate: Window 'RainInternal' being destroyed
+[2020.12.08-03.32.36:427][  1]LogSlate: Window 'RainInternal' being destroyed
+[2020.12.08-03.32.37:535][ 67]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.32.37:579][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.12.08-03.33.03:246][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.08-03.33.03:280][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.12.08-03.33.03:472][265]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenuD46DB2214536923E076CD1A95D92E8E3.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.33.03:510][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_BuiltData" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu_BuiltData.uasset" SILENT=true
+[2020.12.08-03.33.03:554][265]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu_BuiltData3106567449D1754E8B53708BF865DBD0.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu_BuiltData.uasset'
+[2020.12.08-03.33.36:117][215]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.12.08-03.34.19:260][717]BlueprintLog: New page: Compile MainMenu
+[2020.12.08-03.34.19:302][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.12.08-03.34.20:214][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset" SILENT=true
+[2020.12.08-03.34.20:240][770]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenu3F8743E049B9EE4202DD3089C068B73D.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/UI/MainMenu.uasset'
+[2020.12.08-03.34.22:933][931]LogTemp: Repeating last play command: Standalone Game
+[2020.12.08-03.34.22:987][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.12.08-03.35.34:804][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.08-03.35.34:840][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.12.08-03.35.35:042][224]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenuDB51E2944D172C23618BC286B9C730FB.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.35.35:042][224]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap', retrying in .5s...
+[2020.12.08-03.35.35:543][224]LogFileManager: Error: Error deleting file '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'.
+[2020.12.08-03.35.35:543][224]LogSavePackage: Error: Error saving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.35.35:617][224]EditorErrors: New page: Save Output
+[2020.12.08-03.35.35:617][224]EditorErrors: Warning: Error saving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.35.46:392][867]LogSlate: Window 'Message Log' being destroyed
+[2020.12.08-03.35.46:399][867]LogSlate: Window 'Message Log' being destroyed
+[2020.12.08-03.35.48:112][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.08-03.35.48:149][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.12.08-03.35.48:333][968]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/MainMenuEC33A7244744F63EB3323B8B5031FF23.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.35.48:333][968]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap', retrying in .5s...
+[2020.12.08-03.35.48:833][968]LogFileManager: Error: Error deleting file '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'.
+[2020.12.08-03.35.48:833][968]LogSavePackage: Error: Error saving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.35.48:840][968]EditorErrors: New page: Save Output
+[2020.12.08-03.35.48:840][968]EditorErrors: Warning: Error saving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/MainMenu.umap'
+[2020.12.08-03.35.56:997][454]LogSlate: Window 'Message Log' being destroyed
+[2020.12.08-03.35.57:006][454]LogSlate: Window 'Message Log' being destroyed
+[2020.12.08-03.36.01:532][682]LogStaticMesh: Building static mesh SM_Lounge...
+[2020.12.08-03.36.01:601][682]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/SM/SM_Lounge.SM_Lounge
+[2020.12.08-03.36.01:693][682]LogStaticMesh: Building static mesh SM_FirePlace...
+[2020.12.08-03.36.01:700][682]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/SM/SM_FirePlace.SM_FirePlace
+[2020.12.08-03.36.01:702][682]LogStaticMesh: Building static mesh SM_GlassDesk...
+[2020.12.08-03.36.01:735][682]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/SM/SM_GlassDesk.SM_GlassDesk
+[2020.12.08-03.36.01:759][682]LogStaticMesh: Building static mesh SM_TrimWallEnd...
+[2020.12.08-03.36.01:767][682]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/SM/SM_TrimWallEnd.SM_TrimWallEnd
+[2020.12.08-03.36.01:795][682]LogTexture: Display: Building textures: Fire_LUT (RGBA16F, 256X256)
+[2020.12.08-03.36.01:805][682]LogMaterial: Display: Missing cached shader map for material M_Fire, compiling. 
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 126
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 116
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 106
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 96
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 86
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 76
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 66
+[2020.12.08-03.36.02:066][682]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2020.12.08-03.36.02:066][682]LogAIModule: Creating AISystem for world CreepyHouse
+[2020.12.08-03.36.02:105][682]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CreepyHouse.CreepyHouse
+[2020.12.08-03.36.02:148][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.12.08-03.36.02:150][682]Cmd: MAP LOAD FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/CreepyHouse.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.08-03.36.02:150][682]LightingResults: New page: Lighting Build
+[2020.12.08-03.36.02:151][682]LoadErrors: New page: Loading map: CreepyHouse.umap
+[2020.12.08-03.36.02:151][682]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.02:152][682]MapCheck: New page: Map Check
+[2020.12.08-03.36.02:152][682]LightingResults: New page: Lighting Build
+[2020.12.08-03.36.02:196][682]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.12.08-03.36.02:479][682]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.08-03.36.02:526][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.12.08-03.36.02:567][682]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.08-03.36.02:568][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2020.12.08-03.36.02:568][682]LogFileHelpers: Loading map 'CreepyHouse' took 0.419
+[2020.12.08-03.36.04:714][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/CreepyHouse" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/CreepyHouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.08-03.36.04:856][738]LogUObjectHash: Compacting FUObjectHashTables data took  14.62ms
+[2020.12.08-03.36.05:568][738]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/CreepyHouseD6D287874926FA9826B68FA996CCBC2E.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/CreepyHouse.umap'
+[2020.12.08-03.36.05:654][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/CreepyHouse_BuiltData" FILE="../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/CreepyHouse_BuiltData.uasset" SILENT=true
+[2020.12.08-03.36.06:366][738]LogSavePackage: Moving '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Saved/CreepyHouse_BuiltData7A1393CF4BD143CB6C9F1985B0C267B1.tmp' to '../../../../../Unreal/GitKraken/GameJamDuolingo/GameJamDuolingo/Content/Levels/CreepyHouse_BuiltData.uasset'
+[2020.12.08-03.36.08:026][817]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2020.12.08-03.36.08:252][817]LogSlate: Window 'MainMenu' being destroyed
+[2020.12.08-03.36.08:265][817]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.08:276][817]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.08:351][817]LogSlate: Window 'GameJamDuolingo - Unreal Editor' being destroyed
+[2020.12.08-03.36.08:353][817]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.08-03.36.08:876][818]Cmd: QUIT_EDITOR
+[2020.12.08-03.36.09:188][818]LogExit: Preparing to exit.
+[2020.12.08-03.36.10:113][818]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2020.12.08-03.36.10:116][818]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.10:128][818]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.10:137][818]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.10:149][818]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.10:163][818]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.10:174][818]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.10:303][818]LogExit: Transaction tracking system shut down
+[2020.12.08-03.36.10:312][818]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.08-03.36.10:339][818]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-03.36.10:339][818]LogExit: Editor shut down
+[2020.12.08-03.36.10:997][818]LogExit: Object subsystem successfully closed.
+[2020.12.08-03.36.11:103][818]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.08-03.36.11:131][818]LogModuleManager: Shutting down and abandoning module MeshBuilder (682)
+[2020.12.08-03.36.11:131][818]LogModuleManager: Shutting down and abandoning module FontEditor (680)
+[2020.12.08-03.36.11:131][818]LogModuleManager: Shutting down and abandoning module SequencerWidgets (678)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module BlueprintGraph (676)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module StatsViewer (670)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.12.08-03.36.11:132][818]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2020.12.08-03.36.11:133][818]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2020.12.08-03.36.11:134][818]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2020.12.08-03.36.11:135][818]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2020.12.08-03.36.11:853][818]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2020.12.08-03.36.11:853][818]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2020.12.08-03.36.11:853][818]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2020.12.08-03.36.11:853][818]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2020.12.08-03.36.11:853][818]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2020.12.08-03.36.11:854][818]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2020.12.08-03.36.11:896][818]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.12.08-03.36.11:900][818]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.12.08-03.36.11:901][818]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.12.08-03.36.11:901][818]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.12.08-03.36.11:901][818]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.12.08-03.36.11:901][818]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.12.08-03.36.11:901][818]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2020.12.08-03.36.11:904][818]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2020.12.08-03.36.11:974][818]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module GameJamDuolingo (310)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.12.08-03.36.11:975][818]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.12.08-03.36.12:077][818]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.12.08-03.36.12:178][818]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.12.08-03.36.12:178][818]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.12.08-03.36.12:182][818]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.12.08-03.36.12:182][818]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.12.08-03.36.12:182][818]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.12.08-03.36.12:182][818]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.12.08-03.36.12:183][818]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.12.08-03.36.12:183][818]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.12.08-03.36.12:183][818]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.12.08-03.36.12:183][818]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.12.08-03.36.12:183][818]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.12.08-03.36.12:183][818]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.12.08-03.36.12:185][818]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.12.08-03.36.12:186][818]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.12.08-03.36.12:197][818]LogDerivedDataCache: Shutdown
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.12.08-03.36.12:197][818]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.12.08-03.36.12:198][818]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.12.08-03.36.12:199][818]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.12.08-03.36.12:199][818]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.12.08-03.36.12:200][818]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.12.08-03.36.12:200][818]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.12.08-03.36.12:206][818]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.12.08-03.36.12:206][818]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.12.08-03.36.12:207][818]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.12.08-03.36.12:207][818]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.12.08-03.36.12:214][818]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.12.08-03.36.12:214][818]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.08-03.36.12:214][818]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B555C65CD-4F71-65CC-936A-12856755DE4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=987d7f904dfcaf1a9af5c0a73df46591%7Cf1bc93e31d4b485dba4f68ada6746567%7C269bd337-694f-4cc1-b2de-02527b441c40&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.12.08-03.36.12:227][818]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.12.08-03.36.12:228][818]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.12.08-03.36.12:229][818]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.08-03.36.12:230][818]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.08-03.36.12:231][818]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.08-03.36.12:231][818]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.08-03.36.12:231][818]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.08-03.36.12:231][818]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.08-03.36.13:505][818]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.08-03.36.13:505][818]LogD3D11RHI: Shutdown
+[2020.12.08-03.36.13:505][818]LogD3D11RHI: CleanupD3DDevice
+[2020.12.08-03.36.13:506][818]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.08-03.36.13:506][818]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.08-03.36.13:506][818]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.08-03.36.13:642][818]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.12.08-03.36.13:657][818]LogExit: Exiting.
+[2020.12.08-03.36.13:682][818]Log file closed, 12/08/20 14:36:13
+>>>>>>> main
