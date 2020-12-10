@@ -1,0 +1,1027 @@
+﻿Log file open, 12/10/20 16:15:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJamDuolingo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.601548
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.10-05.15.31:683][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.10-05.15.31:683][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.10-05.15.31:684][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.10-05.15.31:684][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.10-05.15.31:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.10-05.15.31:685][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.10-05.15.31:697][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.10-05.15.31:697][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.10-05.15.31:698][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.10-05.15.31:699][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.10-05.15.31:700][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.10-05.15.31:700][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.10-05.15.31:722][  0]LogHAL: Display: Platform has ~ 16 GB [17042722816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.10-05.15.31:722][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.10-05.15.31:723][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:723][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.10-05.15.31:723][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.10-05.15.31:723][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.10-05.15.31:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.10-05.15.31:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.10-05.15.31:726][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.10-05.15.31:727][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.10-05.15.31:759][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.10-05.15.31:759][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.10-05.15.31:759][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Config/Windows/Engine.ini]
+[2020.12.10-05.15.31:761][  0]LogInit: Computer: DESKTOP-2RKGA2I
+[2020.12.10-05.15.31:761][  0]LogInit: User: Joshu
+[2020.12.10-05.15.31:761][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.10-05.15.31:761][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.10-05.15.31:762][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.10-05.15.31:762][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.10-05.15.31:762][  0]LogMemory: Process Physical Memory: 100.96 MB used, 100.96 MB peak
+[2020.12.10-05.15.31:762][  0]LogMemory: Process Virtual Memory: 88.63 MB used, 88.63 MB peak
+[2020.12.10-05.15.31:762][  0]LogMemory: Physical Memory: 13914.30 MB used,  2338.90 MB free, 16253.21 MB total
+[2020.12.10-05.15.31:762][  0]LogMemory: Virtual Memory: 4656.55 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.12.10-05.15.31:773][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.10-05.15.32:144][  0]LogInit: Using OS detected language (en-US).
+[2020.12.10-05.15.32:144][  0]LogInit: Using OS detected locale (en-AU).
+[2020.12.10-05.15.32:147][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.10-05.15.32:684][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.10-05.15.32:890][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.10-05.15.32:890][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.10-05.15.36:644][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.10-05.15.36:644][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.10-05.15.36:740][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.12.10-05.15.36:740][  0]LogD3D11RHI:       8081/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.10-05.15.36:782][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.12.10-05.15.36:782][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.10-05.15.36:787][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.10-05.15.36:787][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.10-05.15.36:787][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.10-05.15.36:854][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.10-05.15.36:854][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.10-05.15.36:855][  0]LogWindows: EnumDisplayDevices:
+[2020.12.10-05.15.36:855][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.12.10-05.15.36:855][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.10-05.15.36:856][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.10-05.15.36:856][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.12.10-05.15.36:857][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.12.10-05.15.36:857][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.12.10-05.15.36:857][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.12.10-05.15.36:858][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.10-05.15.36:858][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.12.10-05.15.36:858][  0]LogD3D11RHI:   Driver Version: 443.25 (internal:26.21.14.4325, unified:443.25)
+[2020.12.10-05.15.36:858][  0]LogD3D11RHI:      Driver Date: 5-24-2020
+[2020.12.10-05.15.36:858][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.12.10-05.15.36:913][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.10-05.15.36:945][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.10-05.15.37:518][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.12.10-05.15.37:528][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.12.10-05.15.37:539][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.12.10-05.15.37:551][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.12.10-05.15.37:571][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.12.10-05.15.37:583][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.12.10-05.15.37:595][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.10-05.15.37:606][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.12.10-05.15.37:613][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.12.10-05.15.37:669][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.12.10-05.15.37:673][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.12.10-05.15.37:717][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.12.10-05.15.37:717][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.12.10-05.15.37:738][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.12.10-05.15.37:738][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.12.10-05.15.37:749][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.12.10-05.15.37:761][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.10-05.15.37:778][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.12.10-05.15.37:806][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.12.10-05.15.37:843][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.12.10-05.15.37:843][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.12.10-05.15.37:843][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.10-05.15.37:901][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.10-05.15.38:078][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Intermediate/Shaders/WorkingDirectory/20792/).
+[2020.12.10-05.15.38:078][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joshu/AppData/Local/Temp/UnrealShaderWorkingDir/941C6D2A42D032C8F241EC883068A4DD/'.
+[2020.12.10-05.15.38:081][  0]LogXGEController: Cleaning working directory: C:/Users/Joshu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.10-05.15.38:082][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.10-05.15.38:082][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.10-05.15.38:082][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.10-05.15.42:079][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.10-05.15.42:204][  0]LogDerivedDataCache: Loaded boot cache 0.12s 73MB C:/Users/Joshu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.10-05.15.42:204][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Joshu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.12.10-05.15.42:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.10-05.15.42:204][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.10-05.15.42:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.10-05.15.42:204][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.10-05.15.42:261][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.10-05.15.42:261][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.10-05.15.42:262][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.10-05.15.42:264][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.10-05.15.42:264][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.10-05.15.42:264][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.10-05.15.42:300][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.10-05.15.42:308][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.10-05.15.42:337][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.10-05.15.42:513][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2020.12.10-05.15.43:160][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.10-05.15.43:583][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.10-05.15.43:583][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.10-05.15.43:583][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.10-05.15.43:583][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.10-05.15.43:583][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.10-05.15.43:661][  0]LogNetVersion: GameJamDuolingo 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1013713415)
+[2020.12.10-05.15.44:820][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051067 seconds
+[2020.12.10-05.15.44:832][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.12.10-05.15.44:832][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.12.10-05.15.44:832][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.10-05.15.47:587][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.10-05.15.47:594][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.10-05.15.47:860][  0]SourceControl: Source control is disabled
+[2020.12.10-05.15.47:860][  0]SourceControl: Source control is disabled
+[2020.12.10-05.15.47:870][  0]SourceControl: Source control is disabled
+[2020.12.10-05.15.47:874][  0]SourceControl: Source control is disabled
+[2020.12.10-05.15.48:161][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.10-05.15.48:747][  0]LogOcInput: OculusInput pre-init called
+[2020.12.10-05.15.48:763][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.10-05.15.48:763][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.10-05.15.48:949][  0]LogEngine: Initializing Engine...
+[2020.12.10-05.15.48:953][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.10-05.15.48:958][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.12.10-05.15.49:365][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.10-05.15.49:417][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.10-05.15.49:495][  0]LogInit: XAudio2 using 'Speakers (SteelSeries Arctis 1 Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.10-05.15.49:522][  0]LogInit: FAudioDevice initialized.
+[2020.12.10-05.15.49:522][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.10-05.15.49:586][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/Joshu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.12.10-05.15.49:587][  0]LogInit: Texture streaming: Enabled
+[2020.12.10-05.15.49:618][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.10-05.15.49:618][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.10-05.15.49:621][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.10-05.15.49:704][  0]LogInit: Transaction tracking system initialized
+[2020.12.10-05.15.49:770][  0]BlueprintLog: New page: Editor Load
+[2020.12.10-05.15.49:932][  0]LocalizationService: Localization service is disabled
+[2020.12.10-05.15.50:306][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/' took 0.01s
+[2020.12.10-05.15.50:307][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.10-05.15.50:307][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.10-05.15.50:743][  0]SourceControl: Source control is disabled
+[2020.12.10-05.15.50:745][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.10-05.15.50:746][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.12.10-05.15.50:746][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.10-05.15.50:747][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.895ms to complete.
+[2020.12.10-05.15.50:747][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.003
+[2020.12.10-05.15.51:021][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-05.15.51:033][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-05.15.51:041][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-05.15.51:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-05.15.51:071][  0]LogCollectionManager: Loaded 0 collections in 0.001410 seconds
+[2020.12.10-05.15.51:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Collections/' took 0.00s
+[2020.12.10-05.15.51:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Developers/Joshu/Collections/' took 0.00s
+[2020.12.10-05.15.51:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Collections/' took 0.00s
+[2020.12.10-05.15.51:095][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.12.10-05.15.51:110][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2876 classes and 687 folders.
+[2020.12.10-05.15.51:123][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.10-05.15.51:543][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.10-05.15.51:556][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.12.10-05.15.51:651][  0]LogSlate: Took 0.011205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.10-05.15.51:666][  0]LogSlate: Took 0.009948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.10-05.15.51:694][  0]LogSlate: Took 0.016790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.10-05.15.51:856][  0]LogRenderer: Reallocating scene render targets to support 1260x592 Format 10 NumSamples 1 (Frame:1).
+[2020.12.10-05.15.52:145][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.12.10-05.15.52:145][  0]LogLoad: (Engine Initialization) Total time: 28.08 seconds
+[2020.12.10-05.15.52:145][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.10-05.15.52:233][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.10-05.15.52:287][  0]LogSlate: Took 0.006476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.10-05.15.52:318][  1]LogAssetRegistry: Asset discovery search completed in 9.8062 seconds
+[2020.12.10-05.15.52:322][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000481 seconds (found 0 objects)
+[2020.12.10-05.15.52:323][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000611 seconds (updated 0 objects)
+[2020.12.10-05.16.00:404][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.10-05.16.05:891][795]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.10-05.16.06:356][795]LogTexture: Display: Building textures: Phone_and_Charger_Material_Normal (BC5, 512X512)
+[2020.12.10-05.16.06:356][795]LogTexture: Display: Building textures: Phone_and_Charger_Material_Base (AutoDXT, 512X512)
+[2020.12.10-05.16.06:356][795]LogTexture: Display: Building textures: Phone_and_Charger_Material_Emissive (AutoDXT, 512X512)
+[2020.12.10-05.16.06:364][795]LogStaticMesh: Building static mesh SM_LightSconce...
+[2020.12.10-05.16.06:402][795]LogTexture: Display: Building textures: Phone_and_Charger_Material_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2020.12.10-05.16.06:402][795]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/SM/SM_LightSconce.SM_LightSconce
+[2020.12.10-05.16.06:415][795]LogStaticMesh: Building static mesh SM_IPhone...
+[2020.12.10-05.16.06:420][795]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/SM/SM_IPhone.SM_IPhone
+[2020.12.10-05.16.06:520][795]LogStaticMesh: Building static mesh SM_Charger...
+[2020.12.10-05.16.06:525][795]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/SM/SM_Charger.SM_Charger
+[2020.12.10-05.16.06:527][795]LogStaticMesh: Building static mesh SM_FirePlace...
+[2020.12.10-05.16.06:539][795]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/SM/SM_FirePlace.SM_FirePlace
+[2020.12.10-05.16.06:559][795]LogStaticMesh: Building static mesh SM_GlassDesk...
+[2020.12.10-05.16.06:574][795]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/SM/SM_GlassDesk.SM_GlassDesk
+[2020.12.10-05.16.06:628][795]LogStaticMesh: Building static mesh SM_PhotoFrame...
+[2020.12.10-05.16.06:630][795]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/SM/SM_PhotoFrame.SM_PhotoFrame
+[2020.12.10-05.16.06:889][795]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Death...
+[2020.12.10-05.16.06:935][795]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 282240 while cooking SoundWave /Game/Sounds/Death.Death.
+[2020.12.10-05.16.06:989][795]LogTexture: Display: Building textures: Fire_LUT (RGBA16F, 256X256)
+[2020.12.10-05.16.07:016][795]LogMaterial: Display: Missing cached shader map for material ModularProps, compiling. 
+[2020.12.10-05.16.07:206][795]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.10-05.16.07:206][795]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.12.10-05.16.07:206][795]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.10-05.16.07:206][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.10-05.16.07:206][795]LogMaterial: Display: Missing cached shader map for material Phone_and_Charger_M, compiling. 
+[2020.12.10-05.16.07:815][795]LogAIModule: Creating AISystem for world CreepyHouse
+[2020.12.10-05.16.07:937][795]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CreepyHouse.CreepyHouse
+[2020.12.10-05.16.07:986][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.12.10-05.16.07:991][795]Cmd: MAP LOAD FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Levels/CreepyHouse.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.10-05.16.07:992][795]LightingResults: New page: Lighting Build
+[2020.12.10-05.16.07:998][795]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 5 classes and 0 folders.
+[2020.12.10-05.16.07:999][795]LoadErrors: New page: Loading map: CreepyHouse.umap
+[2020.12.10-05.16.08:000][795]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.10-05.16.08:004][795]MapCheck: New page: Map Check
+[2020.12.10-05.16.08:004][795]LightingResults: New page: Lighting Build
+[2020.12.10-05.16.08:048][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.12.10-05.16.08:173][795]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.10-05.16.08:177][795]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=-19.894, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.12.10-05.16.08:217][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.12.10-05.16.08:281][795]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.10-05.16.08:282][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.372ms to complete.
+[2020.12.10-05.16.08:282][795]LogFileHelpers: Loading map 'CreepyHouse' took 0.293
+[2020.12.10-05.16.08:970][798]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.10-05.16.09:831][842]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.12.10-05.16.10:215][865]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.12.10-05.16.10:785][899]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.10-05.16.11:944][967]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.10-05.16.12:437][980]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.10-05.16.13:124][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.10-05.16.13:174][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.10-05.16.13:859][ 64]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.10-05.16.18:082][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.10-05.16.42:723][365]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.12.10-05.16.45:930][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassDesk2)
+[2020.12.10-05.16.46:656][573]LogEditorViewport: Clicking on Actor (LMB): Mobile_BP_C (Mobile_BP)
+[2020.12.10-05.16.52:168][899]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3A8562C0-491C-F381-B1E0-4DA0C23C7045}
+[2020.12.10-05.16.57:098][195]LogEditorViewport: Clicking on Actor (context menu): Mobile_BP_C (Mobile_BP)
+[2020.12.10-05.16.57:142][195]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.12.10-05.16.57:355][208]LogEditorViewport: Clicking on Actor (LMB): Mobile_BP_C (Mobile_BP)
+[2020.12.10-05.17.07:480][812]LogEditorViewport: Clicking on Actor (LMB): Mobile_BP_C (Mobile_BP)
+[2020.12.10-05.17.16:960][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Charger)
+[2020.12.10-05.17.17:389][401]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Charger)
+[2020.12.10-05.17.17:420][401]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.12.10-05.17.18:209][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Charger)
+[2020.12.10-05.17.18:984][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Charger)
+[2020.12.10-05.17.29:682][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Charger)
+[2020.12.10-05.17.58:715][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CandleGrp13)
+[2020.12.10-05.17.59:759][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.10-05.17.59:967][936]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM/SM_CandleGrp.SM_CandleGrp
+[2020.12.10-05.18.00:644][936]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.12.10-05.18.00:644][936]LogSlate: Took 0.010053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.10-05.18.25:351][414]LogEditorFactories: Performing atomic reimport of [C:/Users/Joshu/Desktop/GameJamDuolingo/Art/Export/FBX/SM_CandleGrp.fbx]
+[2020.12.10-05.18.25:397][414]LogFbx: Loading FBX Scene from C:/Users/Joshu/Desktop/GameJamDuolingo/Art/Export/FBX/SM_CandleGrp.fbx
+[2020.12.10-05.18.25:410][414]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.10-05.18.25:424][414]LogFbx: Display: Triangulating static mesh SM_CandleGrp
+[2020.12.10-05.18.25:464][414]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.12.10-05.18.25:472][414]LogStaticMesh: Building static mesh SM_CandleGrp...
+[2020.12.10-05.18.25:487][414]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/SM/SM_CandleGrp.SM_CandleGrp
+[2020.12.10-05.18.25:512][414]LogEditorFactories: -- imported successfully
+[2020.12.10-05.18.32:694][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.10-05.18.54:308][520]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Joshu\Desktop\GameJamDuolingo\Art\Export\FBX\SM_CandleGrp_LOW.fbx)
+[2020.12.10-05.18.54:322][520]LogFbx: Loading FBX Scene from C:\Users\Joshu\Desktop\GameJamDuolingo\Art\Export\FBX\SM_CandleGrp_LOW.fbx
+[2020.12.10-05.18.54:332][520]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.10-05.18.54:350][520]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.12.10-05.18.58:080][520]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.12.10-05.18.58:156][520]LogFbx: Display: Triangulating static mesh SM_CandleGrp
+[2020.12.10-05.18.58:438][520]LogStaticMesh: Building static mesh SM_CandleGrp_LOW...
+[2020.12.10-05.18.58:519][520]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/SM_CandleGrp_LOW.SM_CandleGrp_LOW
+[2020.12.10-05.19.44:211][219]LogMetaData: Removing '/Game/Assets/SM/SM_CandleGrp_LOW.SM_CandleGrp_LOW' ref from Metadata '/Game/Assets/SM_CandleGrp_LOW.PackageMetaData'
+[2020.12.10-05.19.44:274][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM/SM_CandleGrp_LOW" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/SM/SM_CandleGrp_LOW.uasset" SILENT=true
+[2020.12.10-05.19.44:312][219]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/SM_CandleGrp_LOW23BDC5D147343387362A9BB21DB7528A.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/SM/SM_CandleGrp_LOW.uasset'
+[2020.12.10-05.19.44:494][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.12.10-05.19.44:526][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.12.10-05.19.44:551][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.12.10-05.19.48:816][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.10-05.19.55:473][410]LogSlate: Window 'Replace References?' being destroyed
+[2020.12.10-05.19.55:480][410]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.10-05.19.55:493][410]LogSlate: Window 'SM_CandleGrp' being destroyed
+[2020.12.10-05.19.55:602][410]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.10-05.19.56:609][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.12.10-05.19.58:118][410]LogSlate: Window 'Save Content' being destroyed
+[2020.12.10-05.19.58:166][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM/SM_CandleGrp" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/SM/SM_CandleGrp.uasset" SILENT=true
+[2020.12.10-05.19.58:177][410]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/SM_CandleGrpF5066CF24B01059E0C451FBEA10DEA13.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/SM/SM_CandleGrp.uasset'
+[2020.12.10-05.19.58:214][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.12.10-05.19.58:617][410]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/CreepyHouse097AC414409C0F89E980B3A4DD57C549.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Levels/CreepyHouse.umap'
+[2020.12.10-05.19.58:665][410]LogFileHelpers: Saving map 'CreepyHouse' took 0.478
+[2020.12.10-05.20.04:076][713]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.12.10-05.20.09:911][983]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM/SM_CandleGrp_LOW.SM_CandleGrp_LOW
+[2020.12.10-05.20.22:916][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.10-05.20.42:696][393]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Joshu\Desktop\SM_CandleGrp_LOW_M_Props_OcclusionRoughnessMetallic.tga)
+[2020.12.10-05.20.42:765][393]LogTexture: Display: Building textures: SM_CandleGrp_LOW_M_Props_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.12.10-05.20.43:048][393]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Joshu\Desktop\SM_CandleGrp_LOW_M_Props_Emissive.tga)
+[2020.12.10-05.20.43:101][393]LogTexture: Display: Building textures: SM_CandleGrp_LOW_M_Props_Emissive (AutoDXT, 2048X2048)
+[2020.12.10-05.20.43:281][393]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Joshu\Desktop\SM_CandleGrp_LOW_M_Props_Normal.tga)
+[2020.12.10-05.20.43:347][393]LogTexture: Display: Building textures: SM_CandleGrp_LOW_M_Props_Normal (BC5, 2048X2048)
+[2020.12.10-05.20.43:638][393]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Joshu\Desktop\SM_CandleGrp_LOW_M_Props_BaseColor.tga)
+[2020.12.10-05.20.43:698][393]LogTexture: Display: Building textures: SM_CandleGrp_LOW_M_Props_BaseColor (AutoDXT, 2048X2048)
+[2020.12.10-05.20.50:390][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T/Candle/Candle_A" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_A.uasset" SILENT=true
+[2020.12.10-05.20.50:730][691]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Candle_A4BBCAA1D404909B78F1914BFA590A5BF.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_A.uasset'
+[2020.12.10-05.20.50:887][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.12.10-05.20.50:922][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.12.10-05.20.50:949][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.10-05.20.55:702][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T/Candle/Candle_e" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_e.uasset" SILENT=true
+[2020.12.10-05.20.55:886][965]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Candle_e3317C60946216BEC438113B717DE11FE.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_e.uasset'
+[2020.12.10-05.20.56:035][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.10-05.20.56:066][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.12.10-05.20.56:091][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.12.10-05.20.59:688][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T/Candle/Candle_e" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_e.uasset" SILENT=true
+[2020.12.10-05.20.59:696][167]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Candle_e71742F704B479225A48AE191A2EE067F.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_e.uasset'
+[2020.12.10-05.20.59:881][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.10-05.21.04:435][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T/Candle/Candle_N" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_N.uasset" SILENT=true
+[2020.12.10-05.21.05:021][421]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Candle_N0DE32B7A4453C3A3497605B6797DA66C.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_N.uasset'
+[2020.12.10-05.21.05:208][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.12.10-05.21.05:243][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.10-05.21.05:269][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.10-05.21.11:340][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T/Candle/Candle_ORM" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_ORM.uasset" SILENT=true
+[2020.12.10-05.21.11:605][766]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Candle_ORM91A1BB164DEBC08D153CF9A4A0A2B1AA.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_ORM.uasset'
+[2020.12.10-05.21.11:770][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.10-05.21.11:800][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.12.10-05.21.11:823][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.10-05.21.31:640][645]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/M/M_Candle.M_Candle
+[2020.12.10-05.21.31:647][645]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.31:800][645]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.31:822][645]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.31:842][645]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.10-05.21.31:842][645]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.10-05.21.31:842][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.21.31:842][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.10-05.21.31:941][645]LogSlate: Took 0.018410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.10-05.21.32:633][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.12.10-05.21.32:705][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.12.10-05.21.32:771][669]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.12.10-05.21.33:065][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.10-05.21.33:325][690]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.12.10-05.21.33:445][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.10-05.21.33:487][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.10-05.21.33:698][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.10-05.21.33:810][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.12.10-05.21.34:463][738]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.10-05.21.34:858][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.10-05.21.35:035][761]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.12.10-05.21.35:173][767]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.10-05.21.35:719][792]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.10-05.21.35:883][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.10-05.21.36:111][809]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.36:149][809]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.10-05.21.36:360][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.10-05.21.36:478][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.10-05.21.36:503][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.21.36:932][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.10-05.21.37:059][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.10-05.21.37:059][836]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.10-05.21.37:291][846]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.12.10-05.21.37:363][849]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.37:365][849]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.21.37:365][849]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.21.37:374][849]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.10-05.21.37:381][849]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.21.38:190][885]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.38:191][885]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.21.38:191][885]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.21.38:195][885]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.12.10-05.21.40:885][ 27]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.40:885][ 27]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.21.40:885][ 27]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.21.40:893][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.12.10-05.21.43:398][159]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.43:399][159]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.21.43:399][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.21.43:403][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.10-05.21.55:192][838]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.55:193][838]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.21.55:193][838]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.21.55:202][838]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.10-05.21.59:512][ 68]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.21.59:512][ 68]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.21.59:512][ 68]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.21.59:519][ 68]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.10-05.22.03:184][251]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.03:185][251]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.03:185][251]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.04:708][338]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.04:709][338]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.04:709][338]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.07:874][524]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.07:875][524]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.07:875][524]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.09:298][608]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.09:299][608]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.09:299][608]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.09:311][608]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.09:311][608]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.09:311][608]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.09:317][608]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.09:317][608]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.09:317][608]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.14:716][896]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.14:717][896]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.14:717][896]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.14:730][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.10-05.22.14:747][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.10-05.22.14:747][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.10-05.22.14:747][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.10-05.22.14:747][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.10-05.22.14:747][896]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.14:748][896]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.14:748][896]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.21:716][245]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.21:716][245]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.21:716][245]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.21:722][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.10-05.22.21:730][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.10-05.22.21:730][245]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.10-05.22.21:730][245]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.10-05.22.21:730][245]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.10-05.22.21:736][245]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.21:737][245]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.21:737][245]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.28:967][634]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.28:988][634]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.10-05.22.28:988][634]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.10-05.22.28:988][634]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.22.28:988][634]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.10-05.22.28:988][634]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.12.10-05.22.29:004][634]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.29:667][658]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.12.10-05.22.29:688][659]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.12.10-05.22.29:758][662]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.10-05.22.29:833][665]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.12.10-05.22.30:798][692]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.12.10-05.22.30:798][692]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.10-05.22.30:820][693]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.22.30:820][693]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.12.10-05.22.31:285][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.10-05.22.31:311][712]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.10-05.22.31:454][717]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.12.10-05.22.31:483][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.10-05.22.31:794][726]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.12.10-05.22.31:913][730]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.10-05.22.31:955][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.12.10-05.22.31:995][734]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.10-05.22.32:291][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.10-05.22.32:609][757]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.10-05.22.33:072][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.10-05.22.33:127][777]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.10-05.22.33:552][797]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.12.10-05.22.33:857][809]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.10-05.22.33:953][813]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.10-05.22.34:352][830]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.10-05.22.34:598][841]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.10-05.22.35:508][881]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.12.10-05.22.35:508][881]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.12.10-05.22.35:508][881]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.12.10-05.22.35:508][881]MaterialEditorStats: Texture samplers: 6/16
+[2020.12.10-05.22.35:508][881]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.12.10-05.22.35:508][881]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.12.10-05.22.36:409][933]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.36:428][933]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.10-05.22.36:470][934]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.10-05.22.36:470][934]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.10-05.22.36:470][934]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.22.36:470][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.10-05.22.37:155][958]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.10-05.22.37:155][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.10-05.22.37:182][959]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.10-05.22.37:286][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.12.10-05.22.37:602][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.12.10-05.22.37:733][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.10-05.22.37:788][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.10-05.22.37:815][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.10-05.22.38:155][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.12.10-05.22.38:534][  4]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.10-05.22.38:874][ 19]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.10-05.22.39:385][ 39]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.12.10-05.22.39:565][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.12.10-05.22.39:644][ 49]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.10-05.22.39:846][ 56]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.10-05.22.40:391][ 75]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.10-05.22.40:746][ 77]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.10-05.22.45:452][332]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.45:453][332]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.45:453][332]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.45:466][332]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.10-05.22.45:469][332]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.47:024][408]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.47:024][408]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.47:024][408]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.47:036][408]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.10-05.22.49:970][565]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.49:971][565]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.49:971][565]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.10-05.22.49:977][565]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.10-05.22.52:184][678]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.52:206][678]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.10-05.22.52:206][678]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.10-05.22.52:206][678]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.22.52:206][678]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.10-05.22.52:206][678]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.10-05.22.52:224][678]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.52:783][695]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.12.10-05.22.52:834][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.12.10-05.22.52:834][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.10-05.22.52:856][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.10-05.22.52:877][698]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/T/Candle/Candle_ORM.Candle_ORM
+[2020.12.10-05.22.52:895][698]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2020.12.10-05.22.53:360][701]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.12.10-05.22.53:452][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.12.10-05.22.53:595][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.22.53:954][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.10-05.22.54:310][735]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.10-05.22.54:310][735]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.10-05.22.54:310][735]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.12.10-05.22.54:310][735]LogTexture: Display: Building textures: Candle_ORM (AutoDXT, 2048X2048)
+[2020.12.10-05.22.54:534][735]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.12.10-05.22.54:672][739]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.12.10-05.22.54:818][745]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.10-05.22.54:900][749]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.10-05.22.54:989][753]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.10-05.22.55:580][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.10-05.22.55:925][785]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.10-05.22.55:925][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.10-05.22.56:072][790]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.12.10-05.22.56:267][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T/Candle/Candle_ORM" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_ORM.uasset" SILENT=true
+[2020.12.10-05.22.56:313][799]LogSavePackage: Moving '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Saved/Candle_ORM23B3111F428618DF400562B2E9DA6706.tmp' to '../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/T/Candle/Candle_ORM.uasset'
+[2020.12.10-05.22.56:712][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.10-05.22.57:021][820]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.10-05.22.57:926][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.10-05.22.58:393][864]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.10-05.22.58:561][868]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.10-05.22.58:853][877]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.58:854][877]LogMaterial: Warning: /Engine/Transient.M_Candle (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.10-05.22.58:854][877]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/T/Candle/Candle_ORM.Candle_ORM
+[2020.12.10-05.22.59:906][927]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.22.59:933][927]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.10-05.22.59:933][927]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.10-05.22.59:933][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.10-05.22.59:933][927]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.10-05.22.59:933][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.10-05.22.59:947][927]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.23.00:530][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.12.10-05.23.00:553][945]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.12.10-05.23.00:553][945]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.12.10-05.23.00:573][946]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.12.10-05.23.01:256][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.12.10-05.23.01:333][974]LogMaterialEditor: Saving and Compiling material M_Candle
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.10-05.23.02:226][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.10-05.23.02:254][974]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.23.02:330][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.10-05.23.02:374][974]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.23.02:419][974]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.12.10-05.23.02:447][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.10-05.23.02:489][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.12.10-05.23.02:508][974]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.12.10-05.23.05:446][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.12.10-05.23.05:447][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.10-05.23.05:455][974]TextureStreamingBuild: Display: Compiling optional shaders took 2.965 seconds.
+[2020.12.10-05.23.05:522][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.12.10-05.23.07:826][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.10-05.23.07:826][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.10-05.23.07:826][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.10-05.23.07:826][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.10-05.23.07:855][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M/M_Candle" FILE="../../../../../../Users/Joshu/Desktop/GameJamDuolingo/GameJamDuolingo/Content/Assets/M/M_Candle.uasset" SILENT=true
+[2020.12.10-05.23.07:856][974]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.10-05.23.08:980][974]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.123 s
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: 
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: Found circular redirect from /Game/Assets/T/Candle/Candle_e.Candle_E to /Game/Assets/T/Candle/Candle_E.Candle_E! Returning None instead
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: Stack: 
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97fd6df0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97c562e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97f0f416 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97f261c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97c8df77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97c1bb23 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97f1d7c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97da557c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97ecfcc9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97ed0221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97da76ac UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97da5652 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97ecfcc9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97e6e35c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97ed0221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97da76ac UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97e6ea03 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97e6ce2b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97e6cb14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff7d6b6ac9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97eb1d62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97ed3b09 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff97eba771 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff8fb6795f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff8fb682f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff8fb9f3b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:980][974]LogOutputDevice: Error: [Callstack] 0x00007fff8fb9bc3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90367cd0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff8fedbd52 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff8feda860 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff8feef046 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90309c66 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff7c1fea0e UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff902dcd28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90f17fda UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90ffa262 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90fdccf4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff910758b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff910914b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90ed5231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90f5b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90f452e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fff90f39c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fffd7404e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fffd73f26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fffd7407340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fffd73eedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff830d15c1d USER32.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff830d15612 USER32.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007fffd74088e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff7d6736980 UE4Editor.exe!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff7d674a91c UE4Editor.exe!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff7d674a9fa UE4Editor.exe!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff7d675b92c UE4Editor.exe!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff7d675e60e UE4Editor.exe!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff82ff87c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: [Callstack] 0x00007ff83186d4d1 ntdll.dll!UnknownFunction []
+[2020.12.10-05.23.08:981][974]LogOutputDevice: Error: 
+[2020.12.10-05.23.08:983][974]LogStats:                SubmitErrorReport -  0.000 s
