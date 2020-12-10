@@ -1691,4 +1691,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
 [2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
 [2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
-[2020.12.10-06.48.40:049][413
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.10-06.48.40:049][413]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.10-06.48.40:049][413]LogD3D11RHI: Shutdown
+[2020.12.10-06.48.40:049][413]LogD3D11RHI: CleanupD3DDevice
+[2020.12.10-06.48.40:050][413]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.10-06.48.40:050][413]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.10-06.48.40:050][413]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.10-06.48.40:182][413]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.12.10-06.48.40:195][413]LogExit: Exiting.
+[2020.12.10-06.48.40:272][413]Log file closed, 12/10/20 17:48:40
