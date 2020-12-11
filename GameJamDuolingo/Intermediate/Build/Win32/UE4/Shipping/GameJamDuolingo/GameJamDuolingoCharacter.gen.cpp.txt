@@ -1,0 +1,9 @@
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win32\UE4\Shipping\GameJamDuolingo\Definitions.GameJamDuolingo.h
+D:\Software\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Software\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Source\GameJamDuolingo/GameJamDuolingoCharacter.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\RootMotionSource.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\Character.generated.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\intermediate\build\win32\ue4\inc\gamejamduolingo\GameJamDuolingoCharacter.generated.h
