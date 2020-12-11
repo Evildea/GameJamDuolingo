@@ -1,4 +1,4 @@
-GameJamDuolingo/Binaries/Win64/GameJamDuolingo-Win64-Shipping.exe	2020-12-10T23:41:42.720Z
+GameJamDuolingo/Binaries/Win64/GameJamDuolingo-Win64-Shipping.exe	2020-12-11T01:58:31.795Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2019-12-06T12:55:46.999Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2019-12-06T12:47:43.171Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2019-12-06T12:47:21.960Z
@@ -19,4 +19,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2019-12-06T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2019-12-06T12:47:43.219Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2019-12-06T12:48:32.697Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2019-12-06T12:48:32.705Z
-GameJamDuolingo.exe	2020-12-10T23:44:35.778Z
+GameJamDuolingo.exe	2020-12-11T01:58:45.720Z
