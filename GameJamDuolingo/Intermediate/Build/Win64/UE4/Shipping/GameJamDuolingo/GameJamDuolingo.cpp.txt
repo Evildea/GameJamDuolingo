@@ -1,0 +1,2 @@
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4\Shipping\GameJamDuolingo\Definitions.GameJamDuolingo.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\source\gamejamduolingo\GameJamDuolingo.h

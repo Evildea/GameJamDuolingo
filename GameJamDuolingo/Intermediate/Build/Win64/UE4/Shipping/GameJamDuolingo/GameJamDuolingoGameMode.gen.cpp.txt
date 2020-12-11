@@ -1,0 +1,9 @@
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Intermediate\Build\Win64\UE4\Shipping\GameJamDuolingo\Definitions.GameJamDuolingo.h
+D:\Software\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Software\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal\GitKraken\GameJamDuolingo\GameJamDuolingo\Source\GameJamDuolingo/GameJamDuolingoGameMode.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Software\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+D:\Software\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
+d:\unreal\gitkraken\gamejamduolingo\gamejamduolingo\intermediate\build\win64\ue4\inc\gamejamduolingo\GameJamDuolingoGameMode.generated.h
